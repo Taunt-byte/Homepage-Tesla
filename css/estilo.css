@@ -1,7 +1,7 @@
 /*Css Geral*/
 body{
     background-color:gray;
-    padding:0;
+    padding: 20px 0px 20px 0px;
     text-align:justify;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 14px;
@@ -14,6 +14,6 @@ body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #feed1{
-    text-align:left;
+    text-align:right;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
