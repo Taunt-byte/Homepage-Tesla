@@ -6,9 +6,15 @@
 
 /*Index CSS*/
 
-.sobre{
-    padding: 20px;
+.sobreD{
     text-align: justify;
+    width: 45%;
+    display: flex;
+}
+.sobreE{
+    text-align: justify;
+    width: 45%;
+    
 }
 .sobre h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
